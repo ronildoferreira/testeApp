@@ -29,16 +29,19 @@ opacity: 0.5;
 }
 
 .botao01{
-    top: 4%;
-    left: 12%;
+    top: 8%;
+    left: 15%;
     position: absolute;
-    font-size: 6em;
+    
 }
 
 .botao02{
-    top: 45%;
-    left: 12%;
+    top: 60%;
+    left: 15%;
     position: absolute;
-    font-size: 6em;
+    
     }
     
+.name{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
