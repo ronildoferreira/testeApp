@@ -26,7 +26,7 @@ background-color:blue;
 .img-wrapper img{
 width: 100%;
 height: 100%;
-opacity: 0.5;
+opacity: 0.3;
 }
 
 .botao01{
@@ -71,12 +71,12 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
     }
 
 .rodape{
-    top: 60;
-    left: 19%;
+    top: 75;
+    left: 22%;
     position: absolute;
     font-family: "Josefin Slab" , serif;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-shadow: .2rem .2rem rgba(0,0,0,.4);
 }
     
