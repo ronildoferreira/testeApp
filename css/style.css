@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700&family=Josefin+Slab:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700&family=Josefin+Slab:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600&display=swap');
 
 *{
 margin:0;    
 padding:0;
 
 }
+
 
 header{
     width: 100%;
@@ -29,16 +30,35 @@ opacity: 0.5;
 }
 
 .botao01{
-    top: 8%;
+    top: 3%;
     left: 15%;
     position: absolute;
     
 }
 
 .botao02{
-    top: 60%;
+    top: 55%;
     left: 15%;
     position: absolute;
     
     }
+
+.name01 h1{
+color: bisque;
+font-size: 3rem;
+font-family: "Baloo 2" , serif;
+font-weight: 200;
+text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
+
+}
+
+.name02 h1{
+    color: bisque;
+    font-size: 3rem;
+    font-family: "Baloo 2" , serif;
+    font-weight: 200;
+    text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
+    text-decoration:none;
+    }
+    
     
