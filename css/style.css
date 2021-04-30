@@ -38,7 +38,7 @@ opacity: 0.5;
 }
 
 .botao02{
-    top:58%;
+    top:55%;
     left: 15%;
     width: 50%;
     position: absolute;
@@ -50,7 +50,7 @@ opacity: 0.5;
     left: 15%;
     position: absolute;
     color: bisque;
-font-size: 3rem;
+font-size: 2rem;
 font-family: "Baloo 2" , serif;
 font-weight: 200;
 text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
@@ -58,11 +58,11 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
 }
 
 .name02 h1{
-    top: 43%;
-    left: 4%;
+    top: 40%;
+    left: 2%;
     position: absolute;
     color: bisque;
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: "Baloo 2" , serif;
     font-weight: 200;
     text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
@@ -72,11 +72,11 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
 
 .rodape{
   
-    left: 15%;
+    left: 13%;
     position: absolute;
     font-family: "Josefin Slab" , serif;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-shadow: .2rem .2rem rgba(0,0,0,.4);
 }
     
