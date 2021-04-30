@@ -38,7 +38,7 @@ opacity: 0.5;
 }
 
 .botao02{
-    top:53%;
+    top:55%;
     left: 15%;
     width: 50%;
     position: absolute;
@@ -47,7 +47,7 @@ opacity: 0.5;
 
 .name01 h1{
     top:0.2%;
-    left: 25%;
+    left: 28%;
     position: absolute;
     color: bisque;
 font-size: 2rem;
@@ -58,7 +58,7 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
 }
 
 .name02 h1{
-    top: 48%;
+    top: 45%;
     left: 12%;
     position: absolute;
     color: bisque;
