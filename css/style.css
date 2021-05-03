@@ -62,7 +62,7 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
 
 .name02 h1{
     top: 42%;
-    left: 14%;
+    left: 16%;
     position: absolute;
     color: bisque;
     font-size: 2rem;
@@ -75,7 +75,7 @@ text-shadow:.2rem .3rem 2px rgba(0,0,0,4);
 
 .rodape{
     top: 90;
-    left: 24%;
+    left: 27%;
     position: absolute;
     font-family: "Josefin Slab" , serif;
     color: #fff;
